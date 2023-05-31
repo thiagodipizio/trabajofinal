@@ -1,0 +1,146 @@
+.body {
+    background-image: url(images.jpeg);
+    width: 1111px;
+    margin: 0 auto;
+
+}
+
+.formulario {
+    text-align: justify;
+}
+
+.redse {
+    background-image: url(blanco.jpg);
+}
+
+.publicidad {
+    display: block;
+    margin-top: 100px;
+    width: 300px;
+}
+.god {
+    text-decoration: none;
+}
+
+.desc {
+    text-align: center;
+}
+
+.Tabla td {
+    border: 5px solid black;
+    font-size:xx-large;
+    width: 500px;
+}
+
+.video {
+    width: 500px;
+    height: 250px;
+    text-align: center;
+    display: block;
+    margin: 60px auto;
+}
+
+.widget {
+    width: 185px;
+    height: 400px;
+    float: right
+}
+
+
+.dias {
+    font-weight: bold;
+    color: blue;
+    font-size: 50px;
+}
+
+.horarios {
+    font-style: italic;
+    font-size: 25px;
+    text-align: center;
+}
+
+.card-roja {
+    background-color: red;
+}
+
+.header {
+    background-color: red;
+    width: 100%;
+    height: 200px;
+    color: white;
+    border-bottom: 10px solid white;
+
+}
+
+.aside {
+    width: 22%;
+    padding: 20px;
+    margin: 2px;
+
+}
+
+.pbody {
+    background-color: aqua;
+    text-align: justify;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.footer {
+    background-color: red;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.lol {
+    background-color: blue;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.contacto {
+    border-bottom-width: 10px ;
+    border-top: 10px;
+    border-left-width: 10px;
+    border-left-color: black;
+    font-size: large;
+    border-top-width: 10px;
+    border-top-color: blue;
+    border-top-style: dotted;
+    border-style: dotted;
+    border-color: blue;
+    border-width: 10px;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: space-evenly;
+}
+
+.foto {
+    display: grid;
+    justify-content: space-evenly;
+    grid-template-columns: 3fr 1fr;
+    gap: 30px;
+    height: 500px;
+    width: 750px;
+    margin-left: 100px;
+}
+
+.titulo {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.fotos {
+    display: flex;
+    justify-content: space-evenly;
+}
